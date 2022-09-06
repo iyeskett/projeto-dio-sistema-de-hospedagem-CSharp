@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "projeto-dio-sistema-de-hospedagem-CSharp", "projeto-dio-sistema-de-hospedagem-CSharp\projeto-dio-sistema-de-hospedagem-CSharp.csproj", "{BC4386DB-D1DB-4220-8493-2E0F5D6055F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC4386DB-D1DB-4220-8493-2E0F5D6055F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC4386DB-D1DB-4220-8493-2E0F5D6055F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC4386DB-D1DB-4220-8493-2E0F5D6055F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC4386DB-D1DB-4220-8493-2E0F5D6055F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A3676C8-3B58-4243-947B-C52A9EACCA53}
+	EndGlobalSection
+EndGlobal
